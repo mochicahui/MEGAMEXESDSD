@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1,AE Mundo
+http://190.43.92.145:8000/play/a0wh/index.m3u8
+
+#EXTINF:-1,ATV
+http://190.43.92.145:8000/play/a0vw/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://190.43.92.145:8000/play/a0w8/index.m3u8
+
+#EXTINF:-1,BabyFirst
+http://190.43.92.145:8000/play/a0kr/index.m3u8
+
+#EXTINF:-1,CMD
+http://190.43.92.145:8000/play/a0tt/index.m3u8
+
+#EXTINF:-1,Canal Estrellas
+http://190.43.92.145:8000/play/a0wv/index.m3u8
+
+#EXTINF:-1,Cartoon Network
+http://190.43.92.145:8000/play/a0kk/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://190.43.92.145:8000/play/a0kc/index.m3u8
+
+#EXTINF:-1,De PelŦcula
+http://190.43.92.145:8000/play/a0zn/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://190.43.92.145:8000/play/a0w7/index.m3u8
+
+#EXTINF:-1,Discovery ID
+http://190.43.92.145:8000/play/a0vo/index.m3u8
+
+#EXTINF:-1,Discovery Turbo
+http://190.43.92.145:8000/play/a0z8/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://190.43.92.145:8000/play/a0w6/index.m3u8
+
+#EXTINF:-1,E Entertainment
+http://190.43.92.145:8000/play/a0wa/index.m3u8
+
+#EXTINF:-1,El Gourmet HD
+http://190.43.92.145:8000/play/a0n9/index.m3u8
+
+#EXTINF:-1,HBO MUNDI
+http://190.43.92.145:8000/play/a0zo/index.m3u8
+
+#EXTINF:-1,History Channel
+http://190.43.92.145:8000/play/a0kb/index.m3u8
+
+#EXTINF:-1,HomeandHealth
+http://190.43.92.145:8000/play/a0vs/index.m3u8
+
+#EXTINF:-1,MTV
+http://190.43.92.145:8000/play/a0kf/index.m3u8
+
+#EXTINF:-1,Nat Geo
+http://190.43.92.145:8000/play/a0ka/index.m3u8
+
+#EXTINF:-1,Nick Jr
+http://190.43.92.145:8000/play/a0tr/index.m3u8
+
+#EXTINF:-1,Nickelodeon
+http://190.43.92.145:8000/play/a0k9/index.m3u8
+
+#EXTINF:-1,Regional Mexican
+http://190.43.92.145:8000/play/a0ws/index.m3u8
+
+#EXTINF:-1,STAR CHANNEL
+http://190.43.92.145:8000/play/a0ki/index.m3u8
+
+#EXTINF:-1,Space
+http://190.43.92.145:8000/play/a0zm/index.m3u8
+
+#EXTINF:-1,SyFy
+http://190.43.92.145:8000/play/a0kt/index.m3u8
+
+#EXTINF:-1,TCM
+http://190.43.92.145:8000/play/a0kj/index.m3u8
+
+#EXTINF:-1,TLC
+http://190.43.92.145:8000/play/a0wt/index.m3u8
+
+#EXTINF:-1,TNT
+http://190.43.92.145:8000/play/a0kl/index.m3u8
+
+#EXTINF:-1,Teen Nick
+http://190.43.92.145:8000/play/a0ti/index.m3u8
+
+#EXTINF:-1,Universal
+http://190.43.92.145:8000/play/a0kd/index.m3u8
+
+#EXTINF:-1,Warner
+http://190.43.92.145:8000/play/a0w9/index.m3u8
+
+#EXTINF:-1,DREAMWORKS
+http://190.60.39.198:8000/play/a09f/index.m3u8
+
+#EXTINF:-1,TOONCAST
+http://190.60.39.198:8000/play/a0aq/index.m3u8
+
+#EXTINF:-1,UNIVISION
+http://190.60.39.198:8000/play/a0av/index.m3u8
+
+#EXTINF:-1 tvg-id="A E",A E
+http://190.61.91.101:1234/play/a034/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC",AMC
+http://190.61.91.101:1234/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN",AXN
+http://190.61.91.101:1234/play/a026/index.m3u8
+
+#EXTINF:-1 tvg-id="Azcorazon",Azcorazon
+http://190.61.91.101:1234/play/a02q/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Investigation",Discovery Investigation
+http://190.61.91.101:1234/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Science",Discovery Science
+http://190.61.91.101:1234/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-id="EWTV",EWTN
+http://190.61.91.101:1234/play/a029/index.m3u8
+
+#EXTINF:-1 tvg-id="FX ",FX
+http://190.61.91.101:1234/play/a014/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY",SONY
+http://190.61.91.101:1234/play/a031/index.m3u8
